@@ -1,2 +1,1 @@
 # AI-Mentor
-# AI-MENTOR
